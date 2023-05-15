@@ -1,1 +1,11 @@
-import pandas as pd
+class Housing:
+    pass
+
+class Townhouse(Housing):
+    pass
+
+class Loft(Housing):
+    pass
+
+class MultipleFlat(Housing):
+    pass
